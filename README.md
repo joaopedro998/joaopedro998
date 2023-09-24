@@ -1,4 +1,4 @@
-## Oi, eu sou o João Pedro Moreira, atualmente cursando Engenharia de Software!!
+## Oi, eu sou o João Pedro Moreira !
 
 <div>
   
