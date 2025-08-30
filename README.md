@@ -8,7 +8,6 @@
 
 <div align="center"> 
   <div style="display: inline_block; margin-top: 20px;">
-    <img align="center" height="200" alt="coding-time" src="code.gif">
     <h1>Melhores Tecnologias</h1>
     <div style="margin-top: 10px;">
       <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
